@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    box-sizing: border-box;
+    align-items: center;
+    display: flex;
+}
+
+.campo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    /* margin-right: 35%; */
+    box-shadow: black, gray;
+    box-sizing: border-box;
+    padding: 25px;
+    width: 50%;
+    margin: auto;
+}
+
+@media (max-width: 709px) {
+    .campo {
+        width: 100vw;
+    }
+    .campo border {
+        visibility: hidden;
+    }
+    
+}
+
