@@ -1,0 +1,1 @@
+Para acessar o projeto, clone o repositório e abra o arquivo [index.html](https://github.com/Enio-Antonio/triangulos/blob/master/triangulos.html), ou clique nesse [link](https://enio-antonio.github.io/triangulos/) para acessar remotamente.
